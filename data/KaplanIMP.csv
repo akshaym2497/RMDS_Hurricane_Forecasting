@@ -1,0 +1,21 @@
+,Normalized?,Predictor Set,ML Name,RMS Error,Param
+0,Normalized,Kaplan 2015 Imp V2,Linear_Regression,16.05941594900782,{}
+1,Normalized,Kaplan 2015 Imp V2,K_Neighbors,15.359658158890353,{'n_neighbors': 30}
+2,Normalized,Kaplan 2015 Imp V2,Decision_Tree,16.130880496028105,"{'max_depth': 5, 'min_samples_split': 15}"
+3,Normalized,Kaplan 2015 Imp V2,Random_Forest,14.267555488796372,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 300}"
+4,Normalized,Kaplan 2015 Imp V2,Ensemble Regressor,15.252733416240144,{}
+5,Not Normalized,Kaplan 2015 Imp V2,Linear_Regression,16.05941594900782,{}
+6,Not Normalized,Kaplan 2015 Imp V2,K_Neighbors,15.359658158890353,{'n_neighbors': 30}
+7,Not Normalized,Kaplan 2015 Imp V2,Decision_Tree,16.13185967304934,"{'max_depth': 5, 'min_samples_split': 15}"
+8,Not Normalized,Kaplan 2015 Imp V2,Random_Forest,14.26847132661414,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 300}"
+9,Not Normalized,Kaplan 2015 Imp V2,Ensemble Regressor,15.252733416240144,{}
+10,Normalized Mean,Kaplan 2015 Imp V2,Linear_Regression,14.313355413441561,{}
+11,Normalized Mean,Kaplan 2015 Imp V2,K_Neighbors,13.472654494518476,{'n_neighbors': 30}
+12,Normalized Mean,Kaplan 2015 Imp V2,Decision_Tree,14.129399527523018,"{'max_depth': 5, 'min_samples_split': 5}"
+13,Normalized Mean,Kaplan 2015 Imp V2,Random_Forest,12.617693597639319,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 200}"
+14,Normalized Mean,Kaplan 2015 Imp V2,Ensemble Regressor,13.43738168806438,{}
+15,Not Normalized Mean,Kaplan 2015 Imp V2,Linear_Regression,14.313355413441561,{}
+16,Not Normalized Mean,Kaplan 2015 Imp V2,K_Neighbors,13.472654494518476,{'n_neighbors': 30}
+17,Not Normalized Mean,Kaplan 2015 Imp V2,Decision_Tree,14.129399527523018,"{'max_depth': 5, 'min_samples_split': 5}"
+18,Not Normalized Mean,Kaplan 2015 Imp V2,Random_Forest,12.6824864798987,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 300}"
+19,Not Normalized Mean,Kaplan 2015 Imp V2,Ensemble Regressor,13.43738168806438,{}
