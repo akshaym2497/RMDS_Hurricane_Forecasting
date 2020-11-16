@@ -1,0 +1,15 @@
+,Normalized?,Predictor Set,ML Name,RMS Error,Param
+0,Not Normalized Mean,Set1,Linear_Regression,14.240673643515969,{}
+1,Not Normalized Mean,Set1,K_Neighbors,13.462018283709405,{'n_neighbors': 30}
+2,Not Normalized Mean,Set1,Decision_Tree,14.129436488788794,"{'max_depth': 5, 'min_samples_split': 5}"
+3,Not Normalized Mean,Set1,Random_Forest_1,12.399378432595295,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 125}"
+4,Not Normalized Mean,Set1,Random_Forest_2,11.846448852532847,{'n_estimators': 100}
+5,Not Normalized Mean,Set1,Ridge,14.240666421348987,{'alpha': 1}
+6,Not Normalized Mean,Set1,Ensemble Regressor,13.35606575095007,{}
+7,Not Normalized Median,Set1,Linear_Regression,14.224407250344376,{}
+8,Not Normalized Median,Set1,K_Neighbors,13.450337507875826,{'n_neighbors': 30}
+9,Not Normalized Median,Set1,Decision_Tree,14.172528280198758,"{'max_depth': 5, 'min_samples_split': 5}"
+10,Not Normalized Median,Set1,Random_Forest_1,12.357615630310356,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 175}"
+11,Not Normalized Median,Set1,Random_Forest_2,11.886728755696101,{'n_estimators': 50}
+12,Not Normalized Median,Set1,Ridge,14.224400080305022,{'alpha': 1}
+13,Not Normalized Median,Set1,Ensemble Regressor,13.37644019150969,{}

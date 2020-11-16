@@ -1,0 +1,13 @@
+,Normalized?,Predictor Set,ML Name,RMS Error,Param
+0,Not Normalized Mean,Set1,Random_Forest_1,12.398194025059084,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 175}"
+1,Not Normalized Mean,Set1,Random_Forest_2,11.821066425468713,{'n_estimators': 150}
+2,Not Normalized Mean,Set1,Ensemble Regressor,12.394909018090422,{}
+3,Not Normalized Median,Set1,Random_Forest_1,12.357916753110196,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 175}"
+4,Not Normalized Median,Set1,Random_Forest_2,11.840504645899026,{'n_estimators': 100}
+5,Not Normalized Median,Set1,Ensemble Regressor,12.451042765738386,{}
+6,Not Normalized Mean,Kaplan 2015 Imp V2,Random_Forest_1,12.6751999256192,"{'max_features': 'sqrt', 'min_samples_leaf': 6, 'n_estimators': 175}"
+7,Not Normalized Mean,Kaplan 2015 Imp V2,Random_Forest_2,12.234907125783156,{'n_estimators': 100}
+8,Not Normalized Mean,Kaplan 2015 Imp V2,Ensemble Regressor,12.681158019140163,{}
+9,Not Normalized Median,Kaplan 2015 Imp V2,Random_Forest_1,12.730526797282355,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 175}"
+10,Not Normalized Median,Kaplan 2015 Imp V2,Random_Forest_2,12.319099900723657,{'n_estimators': 100}
+11,Not Normalized Median,Kaplan 2015 Imp V2,Ensemble Regressor,12.72299781421054,{}

@@ -1,21 +1,21 @@
 ,Normalized?,Predictor Set,ML Name,RMS Error,Param
-0,Normalized,Set1,Linear_Regression,15.915257693034702,{}
-1,Normalized,Set1,K_Neighbors,15.46831680975543,{'n_neighbors': 30}
-2,Normalized,Set1,Decision_Tree,16.211160051560714,"{'max_depth': 5, 'min_samples_split': 5}"
-3,Normalized,Set1,Random_Forest,13.624032837527592,{'n_estimators': 64}
-4,Normalized,Set1,Ensemble Regressor,15.178918145482674,{}
-5,Not Normalized,Set1,Linear_Regression,15.915257693034702,{}
-6,Not Normalized,Set1,K_Neighbors,15.46831680975543,{'n_neighbors': 30}
-7,Not Normalized,Set1,Decision_Tree,16.21843088297507,"{'max_depth': 5, 'min_samples_split': 5}"
-8,Not Normalized,Set1,Random_Forest,13.662617574183836,{'n_estimators': 100}
-9,Not Normalized,Set1,Ensemble Regressor,15.178918145482674,{}
-10,Normalized Mean,Set1,Linear_Regression,14.242198944650728,{}
-11,Normalized Mean,Set1,K_Neighbors,13.64315060619851,{'n_neighbors': 30}
-12,Normalized Mean,Set1,Decision_Tree,14.133251811546812,"{'max_depth': 5, 'min_samples_split': 5}"
-13,Normalized Mean,Set1,Random_Forest,11.984824167243813,{'n_estimators': 100}
-14,Normalized Mean,Set1,Ensemble Regressor,13.388264431319943,{}
-15,Not Normalized Mean,Set1,Linear_Regression,14.242198944650728,{}
-16,Not Normalized Mean,Set1,K_Neighbors,13.64315060619851,{'n_neighbors': 30}
-17,Not Normalized Mean,Set1,Decision_Tree,14.133251811546812,"{'max_depth': 5, 'min_samples_split': 5}"
-18,Not Normalized Mean,Set1,Random_Forest,11.99840272714604,{'n_estimators': 100}
-19,Not Normalized Mean,Set1,Ensemble Regressor,13.388264431319943,{}
+13,Normalized Mean,Set1,Random_Forest,11.98482417,{'n_estimators': 100}
+18,Not Normalized Mean,Set1,Random_Forest,11.99840273,{'n_estimators': 100}
+14,Normalized Mean,Set1,Ensemble Regressor,13.38826443,{}
+19,Not Normalized Mean,Set1,Ensemble Regressor,13.38826443,{}
+3,Normalized,Set1,Random_Forest,13.62403284,{'n_estimators': 64}
+11,Normalized Mean,Set1,K_Neighbors,13.64315061,{'n_neighbors': 30}
+16,Not Normalized Mean,Set1,K_Neighbors,13.64315061,{'n_neighbors': 30}
+8,Not Normalized,Set1,Random_Forest,13.66261757,{'n_estimators': 100}
+12,Normalized Mean,Set1,Decision_Tree,14.13325181,"{'max_depth': 5, 'min_samples_split': 5}"
+17,Not Normalized Mean,Set1,Decision_Tree,14.13325181,"{'max_depth': 5, 'min_samples_split': 5}"
+10,Normalized Mean,Set1,Linear_Regression,14.24219894,{}
+15,Not Normalized Mean,Set1,Linear_Regression,14.24219894,{}
+4,Normalized,Set1,Ensemble Regressor,15.17891815,{}
+9,Not Normalized,Set1,Ensemble Regressor,15.17891815,{}
+1,Normalized,Set1,K_Neighbors,15.46831681,{'n_neighbors': 30}
+6,Not Normalized,Set1,K_Neighbors,15.46831681,{'n_neighbors': 30}
+0,Normalized,Set1,Linear_Regression,15.91525769,{}
+5,Not Normalized,Set1,Linear_Regression,15.91525769,{}
+2,Normalized,Set1,Decision_Tree,16.21116005,"{'max_depth': 5, 'min_samples_split': 5}"
+7,Not Normalized,Set1,Decision_Tree,16.21843088,"{'max_depth': 5, 'min_samples_split': 5}"
