@@ -1,3 +1,2 @@
 ,Normalized?,Predictor Set,Parition Method,ML Name,RMS Error,Param
-0,Normalized Mean,Set1,K-Fold,Random_Forest_1,16.960945915280575,"{'max_features': 'sqrt', 'min_samples_leaf': 6, 'n_estimators': 175}"
-1,Not Normalized Mean,Set1,K-Fold,Random_Forest_1,16.842814942113943,"{'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 175}"
+0,Normalized Mean,Set1,K-Fold,Random_Forest_2,19.857048041901944,{'n_estimators': 250}
